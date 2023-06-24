@@ -1,0 +1,13 @@
+.navbar .navbar-brand {
+    margin-left: 15px;
+}
+
+input:disabled {
+    color: red;
+}
+
+.invisibleTextInput {
+    border: 0 !important;
+    outline: none !important;
+    background: transparent !important;
+}
